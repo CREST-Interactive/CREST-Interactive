@@ -1,111 +1,100 @@
-<!-- Crest Interactive — Premium GitHub Profile -->
+<!-- Luno — Crest Interactive | The Silent Architect -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F1E5C7&height=200&section=header&text=Luno%20|%20Crest%20Interactive&fontAlignY=40&fontSize=36&fontColor=F6F6F6&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Luno%20%7C%20Crest%20Interactive&fontSize=38&color=gradient&animation=twinkling&fontColor=F6F6F6" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🧠+Founder.+Engineer.+Visionary.;🛠️+Building+NeoRP+%26+NeoLog.;🎯+Designing+with+intent%2C+coding+with+clarity." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20in-Switzerland-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Crest_Interactive-Dark_Premium-1E1D2F?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=crest-interactive&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&color=F1E5C7&center=true&vCenter=true&width=550&lines=Founder.+Architect.+Visionary.;Premium+systems+for+serious+projects.;Built+by+Luno%2C+powered+by+Crest+Interactive." />
 </p>
 
 ---
 
-### 🧭 Who is Luno?
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/🌍%20Switzerland-based-1E1D2F?style=flat-square&color=F1E5C7" />
+  <img src="https://img.shields.io/badge/🧠%20Founder%3A%20Crest%20Interactive-1E1D2F?style=flat-square&color=676767" />
+  <img src="https://img.shields.io/badge/🎯%20Vision%3A%20Craft%20Over%20Chaos-1E1D2F?style=flat-square&color=F6F6F6" />
 
-> Founder of **Crest Interactive** — the mind behind [NeoRP](https://github.com/crest-interactive/NeoRP), [NeoLog](https://github.com/crest-interactive/NeoLog), and more.  
-> Specializes in turning chaos into clarity across web, game, and system design.
-
-- 🎮 RP Systems Architect (FiveM / alt:V)
-- 🧠 Strategy & Brand Director
-- 💻 Code Whisperer (TS, React, Node, Python, MongoDB)
-- 🎨 UI/UX Perfectionist
-- 🥁 Drummer @ UnexpectedFall (Post-grunge / Metal)
+</div>
 
 ---
 
-### 🧱 Projects by Crest Interactive
+### ❖ Who is Luno?
 
-| Project | Description |
-|--------|-------------|
-| [NeoRP](https://github.com/crest-interactive/NeoRP) | Full-stack GTA V RP server built on alt:V with handcrafted systems, CEF UI, custom economy & admin RP tools |
-| [NeoLog](https://github.com/crest-interactive/NeoLog) | Premium VTC tracker for ETS2 with a full React/Flask interface, custom telemetry SDK & dashboard |
-| [NeoTrack](https://github.com/crest-interactive/NeoTrack) | ETS2 tracker client with real-time database sync, damage logs, rich presence, and UI overlays |
-| [Crest Interactive Site](https://github.com/crest-interactive/crest-website) | Landing page for all Crest Interactive brands (React + Tailwind with premium visuals) |
+> I don’t ship features. I **architect ecosystems**.  
+> I don’t contribute commits. I **build visions**.  
+> I don’t speak much. But when I do — it’s in code, brands, and systems that work.
 
----
-
-### 💡 Current Focus
-
-- 🚧 Rebuilding the entire **NeoRP ecosystem** from scratch
-- ✍️ Writing [Terms of Service & Legal Docs](https://crest-interactive.com/legal)
-- 🎨 Perfecting **Crest’s branding & dev pipeline**
-- 📈 Monetization systems, subs, premium asset distribution
+🛠 Creator of:
+- `NeoRP` – Full-stack GTA RP server running on alt:V, custom-economy, zero bloat
+- `NeoLog` – ETS2 VTC tracker, full-stack Flask + React, driver dashboards & custom telemetry
+- `NeoTrack` – ETS2 local tracker w/ Discord RPC, damage logs & UI overlay
+- `Crest Interactive` – Digital core that holds it all together
 
 ---
 
-### 🧪 Technologies & Tools
+### ✶ Brands You’re Looking At
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
-
----
-
-### 🔥 Stats, Visuals, and Glory
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crest-interactive&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crest-interactive&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crest-interactive&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crest-interactive&theme=monokai&margin-w=10" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github.com/crest-interactive/NeoRP/raw/main/media/neo.png" width="90" /><br/>
+      <b>NeoRP</b><br/>
+      <sub>alt:V Roleplay, Built Different</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/crest-interactive/NeoLog/raw/main/media/neolog.png" width="90" /><br/>
+      <b>NeoLog</b><br/>
+      <sub>ETS2 VTC Tracker, Driver Dashboard, Live Stats</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/crest-interactive/crest-website/raw/main/media/crest.png" width="90" /><br/>
+      <b>Crest Interactive</b><br/>
+      <sub>Umbrella Brand, Hosting All Core Projects</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🖼️ Live Contributions Snake
+### ⌨️ Stack I Breathe
 
-<p align="center">
-  <img src="https://github.com/crest-interactive/crest-interactive/raw/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
+  
+</div>
 
----
-
-### 🧠 Brainwaves from Luno
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon: *“Coding as a Founder: Building Alone, Thinking Big.”*
-- Coming soon: *“From ETS2 to Enterprise: The Making of NeoLog”*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🛰️ Connect With Me
-
-<p align="center">
-  <a href="mailto:hello@crest-interactive.com"><img src="https://img.shields.io/badge/Email-F1E5C7?style=for-the-badge&logo=gmail&logoColor=171322" /></a>
-  <a href="https://www.crest-interactive.com"><img src="https://img.shields.io/badge/Website-F6F6F6?style=for-the-badge&logo=chrome&logoColor=171322" /></a>
-  <a href="https://discord.gg/neo-rp"><img src="https://img.shields.io/badge/Join%20NeoRP-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+<p align="center"><sub>Every pixel, every line — intentional.</sub></p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</p>
+### 🧩 Philosophy
+> define "Luno"
+
+An autonomous systems engineer with a creative bias and strategic foresight.  
+Founder of Crest Interactive. Builder of interconnected realities.  
+Not interested in hype. Only quality, clarity, and momentum.
+
+# Inspiration: quiet luxury meets technical precision
+# Mission: keep building. keep refining.
+
+# 🛸 The Crest Effect
+
+🧠  Business-Ready Codebases
+🎮  Game Systems that Balance and Scale
+💻  Interfaces that Feel like Premium Products
+🔐  Security and UX with Zero Noise
+🎯  Focused, Fast, Founder-Driven Delivery
+🕳️ Want to Go Deeper?
+Visit: 🌐 crest-interactive.com
+Contact: ✉️ hello@crest-interactive.com
+Join: 🔊 discord.gg/neo-rp
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" /> </p>

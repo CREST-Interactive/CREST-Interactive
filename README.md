@@ -1,116 +1,105 @@
-<!-- CREST INTERACTIVE — Founder README (Cinematic / Premium Edition) -->
-
-<!-- Dynamic Intro Typing -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F1E5C7&center=true&vCenter=true&width=620&lines=We+don%E2%80%99t+build+servers+%E2%80%94+we+build+ecosystems.;From+logic+to+UI+to+identity.;This+is+CREST+INTERACTIVE.">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<!-- Hero Banner -->
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://crest-interactive.com/assets/github-banner-dark.png" width="100%" alt="CREST INTERACTIVE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Open-source+Enthusiast;Tech+Speaker;Lifelong+Learner" />
 </p>
 
-<h1 align="center">CREST INTERACTIVE</h1>
+<!-- Social Media Icons -->
 <p align="center">
-  <i>Founded by Luno — for creators who build with vision, not templates.</i><br/>
-  <b>A Swiss digital studio shaping immersive systems, UI frameworks, and simulation-based gameplay logic from scratch.</b>
-</p>
-
----
-
-### 🧠 Signature Works
-
-<p align="center">
-  <a href="https://crest-interactive.com/neo-rp" target="_blank">
-    <img src="https://img.shields.io/badge/NeoRP%20Framework-GTA%20RP%20from%20scratch-1e1d2f?style=for-the-badge&labelColor=17151e&logo=rockstar-games&logoColor=white">
-  </a>
-  <a href="https://crest-interactive.com/neolog" target="_blank">
-    <img src="https://img.shields.io/badge/NeoLog%20VTC-Telemetry%20Tracking%20Done%20Right-2e8b57?style=for-the-badge&labelColor=172420&logo=truck&logoColor=white">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor%20Agents-UI%20Autonomy%20with%20Purpose-5a3d91?style=for-the-badge&labelColor=1e1d2f&logo=python&logoColor=white">
-  </a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- UI Visual Teaser -->
-<p align="center">
-  <img src="https://crest-interactive.com/assets/neo-ui-preview.webp" width="100%" alt="Neo RP UI Preview">
-</p>
+### 🧠 About Me
 
-<p align="center"><i>This isn’t FiveM. This is the OS for immersive roleplay.</i></p>
-
----
-
-<!-- Quote / Philosophy -->
-> *We don't fork frameworks.  
-We don't ship features.  
-We shape ecosystems — from zero to experience.*
-
-<sub align="right">– Luno, CREST Founder</sub>
+- 🔭 I’m currently working on **Next-Gen Web Applications**
+- 🌱 I’m learning **AI/ML Integration in Web Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, and Python**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: *I can solve a Rubik's cube in under a minute!*
 
 ---
 
-### Currently Building
-
-Neo RP v1
-
-• One-character system
-• Rolelocked weapons, admin factions
-• Legal + illegal economy
-• Full UI-to-logic infrastructure
-• No clones — built from zero, intentionally
-
----
-
-### The Stack Is a Tool, Not a Selling Point
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python,flask,mongodb&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-### Roadmap
-
-| Quarter   | Focus                                                   |
-|-----------|----------------------------------------------------------|
-| 2024-Q4   | Core RP logic, custom HUD, drug economy                  |
-| 2025-Q1   | NeoLog dashboard release, crew system                    |
-| 2025-Q2   | AI-driven modular UIs, job economy extensions            |
-| 2025-Q3   | Neo RP Open Beta                                         |
-
----
-
-### Principles We Don’t Compromise
-
-- 🟥 No ESX, QBCore, or prebuilt stack
-- ✅ Backend-first, UI-mapped architecture
-- 🧠 Systems talk to each other
-- 🔐 Privacy-first. Logic-driven. Founder-built.
-
----
-
-### Want In?
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:founder@crest-interactive.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1e1d2f?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://crest-interactive.com">
-    <img src="https://img.shields.io/badge/Website-Launch-1e1d2f?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://discord.gg/YOURINVITE">
-    <img src="https://img.shields.io/badge/Discord-Join%20Neo%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<!-- Final WOW Factor -->
+### 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F1E5C7&center=true&vCenter=true&width=620&lines=From+logic+to+UI+to+identity.">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
-<p align="center"><sub>Made with intent. Refined with obsession. © 2025 CREST INTERACTIVE</sub></p>
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=7" />
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyuserid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+</p>
+
+---
+
+### 🐍 Snake Game Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Integrate AI into Your Web App](https://yourblog.com/ai-integration)
+- [Top 10 VSCode Extensions for Developers](https://yourblog.com/vscode-extensions)
+- [Understanding JavaScript Closures](https://yourblog.com/js-closures)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
+</p>

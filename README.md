@@ -1,127 +1,109 @@
-<!-- Luno | Crest Interactive — Studio-grade GitHub README -->
+<!-- CREST INTERACTIVE – FOUNDER README (CINEMATIC VERSION) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Luno%20%7C%20Crest%20Interactive&fontSize=38&color=gradient&animation=twinkling&fontColor=F6F6F6" />
+  <img src="https://crest-interactive.com/assets/github-banner-dark.png" width="100%" alt="CREST INTERACTIVE">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2000&color=F1E5C7&center=true&vCenter=true&width=600&lines=Founder%20of%20Crest%20Interactive.;Architect%20of%20intentional%20systems.;Premium-first%20development%20philosophy." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Switzerland-1E1D2F?style=flat-square&color=F1E5C7" />
-  <img src="https://img.shields.io/badge/Discipline-Creative+Engineering-1E1D2F?style=flat-square&color=676767" />
-  <img src="https://img.shields.io/badge/Brand-Crest%20Interactive-1E1D2F?style=flat-square&color=F6F6F6" />
-</p>
-
----
-
-### Identity
-
-> *Luno builds infrastructure for ideas to live in.*
-
-Full-stack founder with a system-first mindset.  
-Working quietly on bold things.  
-Writing code that respects the interface. Designing experiences that understand intention.
-
----
-
-### CrestOS v1 Boot Sequence
-
-```bash
-$ start crest
-> locating shell... ✔
-> verifying boot integrity... ✔
-> loaded modules: [ NeoRP, NeoLog, NeoTrack ]
-> establishing command layer... ✔
-> session: LUNO-001
-> memory state: focused, quiet, building
-
-Ready.
-```
-
----
-
-### Core Domains
-
-```
-NeoRP      → alt:V-based RP server from scratch, modular economy, custom CEF UI
-NeoLog     → ETS2 VTC platform with driver dashboards, admin panels, telemetry
-NeoTrack   → Local ETS2 tracker app with job detection, Discord RPC, damage logs
-Crest Hub  → Web presence for all products, services, and assets under Crest
-```
-
----
-
-### Stack (No-Nonsense Edition)
-
-<p align="center">
-  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
-  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
-  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
-</p>
-
-<p align="center"><sub>Minimalist in surface. Maximalist in structure.</sub></p>
-
----
-
-### Beliefs
-
-```txt
-Functionality is a given. Feel is the differentiator.
-I write systems that talk to each other. I design interfaces that don’t ask questions twice.
-I don’t build projects. I build presence.
-Nothing should be there without reason.
-```
-
----
-
-### Projects That Don’t Look Like Projects
-
-```ts
-const WIP = [
-  "Character Creator 2.0 (WebView, RGB, camera locks)",
-  "IC Admin Syndicate Tooling (moderation without meta)",
-  "Unified Discord ↔ Web ↔ Server sync bridge",
-  "Business & Licensing System (IC economy meets governance)",
-  "Minimal CMS for internal toolchain (JWT-secured panels)"
-];
-```
-
----
-
-### Behind The Interface
-
-```bash
-// human-mode
-Luno = {
-  background: "Founder, creative coder, systems thinker",
-  mode:       "Calm. Focused. Uninterested in noise.",
-  motto:      "Build it how you’d want to use it yourself."
-}
-```
-
----
-
-### Now Playing
-
-<p align="center">
-  <img src="https://spotify-now-playing-kittinan.vercel.app/api/now-playing?theme=dark&v=1" alt="Now Playing on Spotify" width="380" />
-</p>
-
----
-
-### Signal Chain
-
-- `email:` [hello@crest-interactive.com](mailto:hello@crest-interactive.com)  
-- `web:` [crest-interactive.com](https://crest-interactive.com)  
-- `discord:` [discord.gg/neo-rp](https://discord.gg/neo-rp)
+<h1 align="center"><strong>CREST INTERACTIVE</strong></h1>
+<p align="center"><i>Founded by Luno — for creators who build with vision, not templates.</i></p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+  <img src="https://crest-interactive.com/assets/neo-ui-preview.webp" width="100%" alt="Neo RP UI Preview">
 </p>
+
+<p align="center"><i>This isn’t FiveM. This is the OS for immersive roleplay.</i></p>
+
+---
+
+### 🧠 Projects That Define Our Identity
+
+<p align="center">
+  <a href="https://crest-interactive.com/neo-rp">
+    <img src="https://img.shields.io/badge/NeoRP%20Framework-GTA%20RP%20from%20scratch-1e1d2f?style=for-the-badge&labelColor=17151e&logo=rockstar-games&logoColor=white">
+  </a>
+  <a href="https://crest-interactive.com/neolog">
+    <img src="https://img.shields.io/badge/NeoLog%20VTC-Telemetry%20Tracking%20Done%20Right-2e8b57?style=for-the-badge&labelColor=172420&logo=truck&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Cursor%20Agents-UI%20Autonomy%20with%20Purpose-5a3d91?style=for-the-badge&labelColor=1e1d2f&logo=python&logoColor=white">
+  </a>
+</p>
+
+---
+
+### ✒️ Founder’s Manifesto
+
+> *"We don't fork frameworks.  
+We don’t ship features.  
+We shape ecosystems — from zero to experience."*
+
+<sub>– Luno, CREST Founder</sub>
+
+---
+
+### 🧬 Our Stack Is a Toolbox, Not a Crutch
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python,mongodb,flask&theme=dark" />
+</p>
+
+---
+
+### 🧪 What We're Building
+
+Neo RP v1
+• One-character system
+• Rolelocked arms, admin factions
+• Legal + illegal economic loops
+• Immersive UI → narrative-driven logic
+• Custom OS experience in-game
+
+yaml
+Copy
+Edit
+
+---
+
+### 🧭 Our Roadmap
+
+| Phase    | Focus                                                     |
+|----------|-----------------------------------------------------------|
+| 🔹 2024-Q4 | Neo RP Core Systems, Custom HUD, Drug Economy             |
+| 🔹 2025-Q1 | Public NeoLog Dashboard, Crew Features                    |
+| 🔹 2025-Q2 | Custom AI UIs, Modular Job Systems                        |
+| 🔹 2025-Q3 | Neo RP Open Beta                                          |
+
+---
+
+### 🧠 Core Beliefs
+
+- ❌ No QBCore, ESX, or copy-paste clones  
+- ✔️ Every system is engineered — not hacked together  
+- 🎯 UI, gameplay, and backend are one language  
+- 🔐 Private-first. Player-focused. Founder-led.
+
+---
+
+### ⚡ Want In?
+
+<p align="center">
+  <a href="mailto:founder@crest-interactive.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1e1d2f?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://crest-interactive.com">
+    <img src="https://img.shields.io/badge/Website-Launch-1e1d2f?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://discord.gg/YOURINVITE">
+    <img src="https://img.shields.io/badge/Discord-Join%20Neo%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1E5C7&center=true&vCenter=true&width=600&lines=We+craft+immersive+ecosystems.;From+logic+to+UI+to+identity." />
+</p>
+
+<p align="center"><sub>Made with intent. Refined with obsession. © 2025 CREST INTERACTIVE</sub></p>

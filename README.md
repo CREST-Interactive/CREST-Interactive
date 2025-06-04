@@ -1,120 +1,127 @@
-<!-- Crest Interactive | Private OS Manifest -->
+<!-- Luno | Crest Interactive — Studio-grade GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Crest%20Interactive%20OS&fontSize=38&fontColor=F6F6F6&color=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Luno%20%7C%20Crest%20Interactive&fontSize=38&color=gradient&animation=twinkling&fontColor=F6F6F6" />
 </p>
 
-<pre align="center"><code>confidential// access granted
-init crest-os -boot secure --env founder
-session: Luno
-origin: Switzerland
-mode: premium
-</code></pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2000&color=F1E5C7&center=true&vCenter=true&width=600&lines=Founder%20of%20Crest%20Interactive.;Architect%20of%20intentional%20systems.;Premium-first%20development%20philosophy." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Switzerland-1E1D2F?style=flat-square&color=F1E5C7" />
+  <img src="https://img.shields.io/badge/Discipline-Creative+Engineering-1E1D2F?style=flat-square&color=676767" />
+  <img src="https://img.shields.io/badge/Brand-Crest%20Interactive-1E1D2F?style=flat-square&color=F6F6F6" />
+</p>
 
 ---
 
-### SYSTEM IDENTITY
+### Identity
+
+> *Luno builds infrastructure for ideas to live in.*
+
+Full-stack founder with a system-first mindset.  
+Working quietly on bold things.  
+Writing code that respects the interface. Designing experiences that understand intention.
+
+---
+
+### CrestOS v1 Boot Sequence
 
 ```bash
-user: Luno
-title: Architect / Director
-company: Crest Interactive
-role: Founder, Vision, Engineering
-focus: Systems, UX, Infrastructure
+$ start crest
+> locating shell... ✔
+> verifying boot integrity... ✔
+> loaded modules: [ NeoRP, NeoLog, NeoTrack ]
+> establishing command layer... ✔
+> session: LUNO-001
+> memory state: focused, quiet, building
+
+Ready.
 ```
 
 ---
 
-### PROJECT INDEX
+### Core Domains
 
-```yaml
-NeoRP:
-  type: alt:V RP Framework
-  stack: TypeScript, WebView, Mongo, Modular Systems
-  notes: Fully custom — no clones, no base dependencies.
-
-NeoLog:
-  type: VTC Management System
-  stack: React, Flask, Postgres
-  usage: Dashboard, Tracking, Auth Layers
-
-NeoTrack:
-  type: Local Job Telemetry Client
-  lang: Python
-  features:
-    - SDK telemetry parsing
-    - Auto job logging
-    - Discord RPC bridge
+```
+NeoRP      → alt:V-based RP server from scratch, modular economy, custom CEF UI
+NeoLog     → ETS2 VTC platform with driver dashboards, admin panels, telemetry
+NeoTrack   → Local ETS2 tracker app with job detection, Discord RPC, damage logs
+Crest Hub  → Web presence for all products, services, and assets under Crest
 ```
 
 ---
 
-### TECHNOLOGIES IN PLAY
+### Stack (No-Nonsense Edition)
+
+<p align="center">
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
+</p>
+
+<p align="center"><sub>Minimalist in surface. Maximalist in structure.</sub></p>
+
+---
+
+### Beliefs
+
+```txt
+Functionality is a given. Feel is the differentiator.
+I write systems that talk to each other. I design interfaces that don’t ask questions twice.
+I don’t build projects. I build presence.
+Nothing should be there without reason.
+```
+
+---
+
+### Projects That Don’t Look Like Projects
 
 ```ts
-const tech = [
-  "TypeScript", "React", "Python", "MongoDB", "Flask",
-  "TailwindCSS", "JWT", "Postgres", "Git", "WebSockets"
+const WIP = [
+  "Character Creator 2.0 (WebView, RGB, camera locks)",
+  "IC Admin Syndicate Tooling (moderation without meta)",
+  "Unified Discord ↔ Web ↔ Server sync bridge",
+  "Business & Licensing System (IC economy meets governance)",
+  "Minimal CMS for internal toolchain (JWT-secured panels)"
 ];
 ```
 
 ---
 
-### CODE PHILOSOPHY
+### Behind The Interface
 
-```
-01 — Intent over trend.
-02 — UX is system architecture.
-03 — Default is noise. Precision is signal.
-04 — Build once. Then iterate until it disappears.
-05 — A good UI is one you forget you're using.
-```
-
----
-
-### ACTIVE OPS
-
-```shell
-$ git clone crest/NeoRP
-> compiling character creator...
-> linking telemetry streams...
-> patching legal framework...
-> deploying private law system...
-> boot sequence: SUCCESS
+```bash
+// human-mode
+Luno = {
+  background: "Founder, creative coder, systems thinker",
+  mode:       "Calm. Focused. Uninterested in noise.",
+  motto:      "Build it how you’d want to use it yourself."
+}
 ```
 
 ---
 
-### STATUS TERMINAL
-
-<pre>
-┌────────────────────────────────────┐
-│  SYSTEM: CREST INTERACTIVE         │
-│  UPTIME: 99.999%                   │
-│  USERS: whitelisted                │
-│  MODE: silent-build                │
-│  NEXT PUSH: undisclosed            │
-└────────────────────────────────────┘
-</pre>
-
----
-
-### CONDUITS
-
-```txt
-- Web:    https://crest-interactive.com
-- Mail:   hello@crest-interactive.com
-- Access: discord.gg/neo-rp
-```
-
----
-
-<pre align="center"><code>
-closing crest-os...
-commit logged [Founder Session]
-goodbye, Luno.
-</code></pre>
+### Now Playing
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+  <img src="https://spotify-now-playing-kittinan.vercel.app/api/now-playing?theme=dark&v=1" alt="Now Playing on Spotify" width="380" />
+</p>
+
+---
+
+### Signal Chain
+
+- `email:` [hello@crest-interactive.com](mailto:hello@crest-interactive.com)  
+- `web:` [crest-interactive.com](https://crest-interactive.com)  
+- `discord:` [discord.gg/neo-rp](https://discord.gg/neo-rp)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </p>

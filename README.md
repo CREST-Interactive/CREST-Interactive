@@ -26,10 +26,6 @@
   <a href="https://crest-interactive.com/neolog">
     <img src="https://img.shields.io/badge/NeoLog%20VTC-Telemetry%20Tracking%20Done%20Right-2e8b57?style=for-the-badge&labelColor=172420&logo=truck&logoColor=white">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Cursor%20Agents-UI%20Autonomy%20with%20Purpose-5a3d91?style=for-the-badge&labelColor=1e1d2f&logo=python&logoColor=white">
-  </a>
-</p>
 
 ---
 

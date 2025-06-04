@@ -1,117 +1,135 @@
-<!-- Luno — Crest Interactive | Terminal-Core README -->
+<!-- Luno — Crest Interactive | Black-Label README -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Luno%20%7C%20Crest%20Interactive&fontSize=38&color=gradient&animation=twinkling&fontColor=F6F6F6" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&color=F1E5C7&center=true&vCenter=true&width=550&lines=Founder.+Architect.+Visionary.;Premium+systems+for+serious+projects.;Built+by+Luno%2C+powered+by+Crest+Interactive." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=F1E5C7&center=true&vCenter=true&width=600&lines=Founder.+Architect.+Visionary.;Full-stack+World-Builder.;Understated+on+purpose%2C+overbuilt+by+design." />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Based%20in-Switzerland-1E1D2F?style=flat-square&color=F1E5C7" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Crest%20Interactive%20Founder-1E1D2F?style=flat-square&color=676767" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Clarity%20%7C%20Code%20%7C%20Chaos-1E1D2F?style=flat-square&color=F6F6F6" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Brand%20%26%20Code%20Synergy-1E1D2F?style=flat-square&color=F6F6F6" />
 </p>
 
 ---
 
-### ❖ Who is Luno?
+### 🧠 Who is Luno?
 
-> I don’t ship features. I architect ecosystems.  
-> I don’t chase hype. I build systems that last.  
-> I don’t show off code. I run the entire show — tech, brand, structure, soul.
-
-🧠 Core Traits:
-- Founder of **Crest Interactive**
-- Designer of premium digital systems
-- Code-first builder. Vision-led creator.
-- Uncompromising in UX, detail, and intention.
+```bash
+// Developer. Designer. Director.
+Luno = {
+  role: "Founder of Crest Interactive",
+  mindset: "Craft over code. System over feature.",
+  languages: ["TypeScript", "React", "Python", "Mongo", "Tailwind"],
+  obsessions: ["UX precision", "Immersive tech", "Narrative systems"],
+  motto: "Refine until it feels inevitable."
+}
+```
 
 ---
 
 ### 🧱 Featured Projects
 
-| 🚀 Project       | Description |
-|------------------|-------------|
-| **NeoRP** | Full-stack GTA V RP server (alt:V). Entirely handcrafted – no QBcore, no noise. Custom character creator, faction control, modular economy. |
-| **NeoLog** | ETS2 VTC platform with driver dashboards, admin panels, telemetry tracking & Discord ticketing. Full-stack with Flask, React, and Postgres. |
-| **NeoTrack** | Local Python tracker for ETS2. Rich presence, UI overlays, auto-detection of job flow & damage logs. |
-| **crest-interactive.com** | Core brand site. Powered by React & Tailwind. Hub for all projects under the Crest banner. |
+| 🚀 Project | Description |
+|-----------|-------------|
+| **NeoRP** | Full-stack GTA V RP server (alt:V). Built from scratch. RP-first logic, CEF UI, and deep systems. |
+| **NeoLog** | VTC dashboard for ETS2. Track drivers, miles, jobs. Full React/Flask/Postgres stack. |
+| **NeoTrack** | Local Python app for ETS2 telemetry. Logs, status detection, Discord RPC. |
+| **Crest Interactive** | Core brand platform. Built like a product, not a portfolio. |
 
 ---
 
-### ✦ My Stack — Tools I Actually Use
+### ⚙️ Technologies I Actually Use
 
 <p align="center">
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
-<p align="center"><sub>No filler. No hype tech. Just what gets the job done right.</sub></p>
+<p align="center"><sub>No hype stacks. Just systems that scale and interfaces that feel right.</sub></p>
 
 ---
 
-### ⌨️ CrestOS Boot Prompt
+### 🖥️ CrestOS Boot Sequence (yes, it boots)
 
 ```bash
-booting CrestOS v1.0...
-✓ Detected: Luno [UID: CREST-001]
-✓ Loaded modules: NeoRP, NeoLog, NeoTrack
-✓ Memory usage: 2% (just getting started...)
-✓ System state: STABLE, MISSION-ACTIVE
+🧠 CrestOS 1.0 [Luno Signature Build]
 
-> deploy --brand --system --legacy
+> Initializing...
+✓ DNA found: CREST-001
+✓ Boot path: NeoRP > NeoLog > NeoTrack
+✓ Memory Allocation: 12GB (8GB Reserved: World Systems)
+✓ Overlay Style: DarkGlass™
+✓ UX Policy: No compromise
+
+> luno --launch --clarity --silence
 ```
 
 ---
 
-### 📜 Philosophy
-
-```txt
-Founder-led tech doesn't need 100 stars.
-It needs a soul, a system, and a reason to exist.
-
-💻 I build: immersive tech with a premium feel.
-🎮 I care: about systems that scale with intention.
-🧠 I believe: creativity thrives under well-defined rules.
-```
-
----
-
-### 🛠 Custom Features in Dev
-
-- NeoRP “Admin Syndicate” module (IC admin RP)
-- Discord + website fusion via JWT-auth bridge
-- Character Creator 2.0 (React/TS WebView with RGB + overlays)
-- Real-time driver stats dashboard
-- Game economy automation & law systems
-
----
-
-### 🐍 Contribution Snake (live animation)
+### 🎧 What’s Fueling the Build?
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luno/Luno/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luno/Luno/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Luno/Luno/output/github-snake.svg" />
-  </picture>
+  <img src="https://spotify-now-playing-kittinan.vercel.app/api/now-playing?theme=novatorem&v=1" alt="Spotify Now Playing" width="400" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🧩 Philosophy of Code
+
+```txt
+> founder.mode = true
+
+📦 Build ecosystems, not just apps.
+🎨 UX is not decoration. It’s structure.
+🕸️ Every line should know why it exists.
+⏳ Quality takes time. And it’s worth it.
+🚫 No bloat. No clones. No shortcuts.
+```
+
+---
+
+### 🎯 In Development
+
+```ts
+export const roadmap = [
+  "🧪 Character Creator 2.0 (WebView + RGB Color Sliders)",
+  "🛡️ Admin RP Tools (IC Enforcement + Modular Access)",
+  "📊 Live VTC Dashboard for Drivers",
+  "🔁 API Bridge: Discord ↔️ NeoRP ↔️ Web",
+  "🎒 Dynamic Player Inventory System"
+];
+```
+
+---
+
+### 🕶️ Visual Showcase (Coming Soon™)
+
+<p align="center">
+  <img src="https://i.imgur.com/Z7f3iIa.png" alt="NeoRP Preview" width="300" />
+  <img src="https://i.imgur.com/xzF0UIG.png" alt="NeoLog Panel" width="300" />
+</p>
+
+<p align="center"><sub>Just a glimpse. The rest runs deeper than pixels.</sub></p>
+
+---
+
+### 🛰️ Connect with Luno
 
 <p align="center">
   <a href="mailto:hello@crest-interactive.com"><img src="https://img.shields.io/badge/Email-F1E5C7?style=for-the-badge&logo=gmail&logoColor=171322" /></a>
   <a href="https://crest-interactive.com"><img src="https://img.shields.io/badge/Website-F6F6F6?style=for-the-badge&logo=chrome&logoColor=171322" /></a>
   <a href="https://discord.gg/neo-rp"><img src="https://img.shields.io/badge/Join%20NeoRP-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />

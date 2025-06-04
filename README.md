@@ -90,10 +90,6 @@ We shape ecosystems — from zero to experience."*
   <a href="https://crest-interactive.com">
     <img src="https://img.shields.io/badge/Website-Launch-1e1d2f?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://discord.gg/YOURINVITE">
-    <img src="https://img.shields.io/badge/Discord-Join%20Neo%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
 
 ---
 

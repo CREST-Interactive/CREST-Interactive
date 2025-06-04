@@ -56,7 +56,7 @@
 
 ---
 
-### ⌨️ CrestOS Boot Prompt (Easter Egg 👾)
+### ⌨️ CrestOS Boot Prompt
 
 ```bash
 booting CrestOS v1.0...
@@ -93,10 +93,14 @@ It needs a soul, a system, and a reason to exist.
 
 ---
 
-### 🐍 Contribution Snake (Because why not?)
+### 🐍 Contribution Snake (live animation)
 
 <p align="center">
-  <img src="https://github.com/crest-interactive/crest-interactive/raw/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luno/Luno/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luno/Luno/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Luno/Luno/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---

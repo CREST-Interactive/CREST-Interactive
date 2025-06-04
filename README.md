@@ -1,108 +1,120 @@
-<!-- Luno | Crest Interactive -->
+<!-- Crest Interactive | Private OS Manifest -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Crest%20Interactive&fontSize=32&fontColor=F6F6F6&color=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Crest%20Interactive%20OS&fontSize=38&fontColor=F6F6F6&color=gradient&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <strong>Luno — Founder & Systems Architect</strong><br/>
-  Building Crest Interactive. Designing infrastructure. Leading through clarity.
-</p>
+<pre align="center"><code>confidential// access granted
+init crest-os -boot secure --env founder
+session: Luno
+origin: Switzerland
+mode: premium
+</code></pre>
 
 ---
 
-## Identity
+### SYSTEM IDENTITY
 
-Crest Interactive is not a project studio.  
-It’s a systems lab. A blueprint engine. A code-silent brand built for scale.
-
-I don’t build apps. I architect frameworks.  
-I don’t do features. I solve environments.
-
-This profile is not about commits.  
-It’s about architecture.
-
----
-
-## Active Operations
-
-```txt
-NEORP       Full-stack alt:V RP framework
-NEOLOG      ETS2 VTC telemetry & dashboard suite
-NEOTRACK    Local SDK telemetry parser (Python)
-CREST.OS    Internal admin interfaces & CLI modules
+```bash
+user: Luno
+title: Architect / Director
+company: Crest Interactive
+role: Founder, Vision, Engineering
+focus: Systems, UX, Infrastructure
 ```
 
-Each module communicates across a shared philosophy:  
-Functional clarity. UX as structure. No dead weight.
+---
+
+### PROJECT INDEX
+
+```yaml
+NeoRP:
+  type: alt:V RP Framework
+  stack: TypeScript, WebView, Mongo, Modular Systems
+  notes: Fully custom — no clones, no base dependencies.
+
+NeoLog:
+  type: VTC Management System
+  stack: React, Flask, Postgres
+  usage: Dashboard, Tracking, Auth Layers
+
+NeoTrack:
+  type: Local Job Telemetry Client
+  lang: Python
+  features:
+    - SDK telemetry parsing
+    - Auto job logging
+    - Discord RPC bridge
+```
 
 ---
 
-## In Progress
+### TECHNOLOGIES IN PLAY
 
 ```ts
-// Crest Internal DevLog
-
-const roadmap: string[] = [
-  "NeoRP Character Creator v2 – WebView, RGB, 0% inheritance",
-  "NeoLog driver scoring & application analytics",
-  "JWT-secured bridge: Discord ↔︎ NeoLog Dashboard",
-  "NeoTrack rewrite: memory-mapped compression + DB sync",
-  "Admin systems as RP faction – not OOC UI"
+const tech = [
+  "TypeScript", "React", "Python", "MongoDB", "Flask",
+  "TailwindCSS", "JWT", "Postgres", "Git", "WebSockets"
 ];
 ```
 
 ---
 
-## Core Stack
+### CODE PHILOSOPHY
 
-```yaml
-languages:
-  - TypeScript
-  - Python
-  - JavaScript
-  - SQL
-frameworks:
-  - React
-  - Flask
-  - Express
-  - MongoDB
-  - PostgreSQL
-
-tools:
-  - Git
-  - VS Code
-  - Figma
-  - Postman
-  - Shell
 ```
-
-Everything custom. No templates.  
-Everything connected. No silos.
-
----
-
-## Design Notes
-
-```bash
-# Crest UX Policy
-- Every UI must explain itself
-- No buttons without consequence
-- No state without structure
-- No animation without purpose
-- Everything reacts. Nothing distracts.
+01 — Intent over trend.
+02 — UX is system architecture.
+03 — Default is noise. Precision is signal.
+04 — Build once. Then iterate until it disappears.
+05 — A good UI is one you forget you're using.
 ```
 
 ---
 
-## Contact
+### ACTIVE OPS
 
-- [Website](https://crest-interactive.com)
-- [Discord](https://discord.gg/neo-rp)
-- [Email](mailto:hello@crest-interactive.com)
+```shell
+$ git clone crest/NeoRP
+> compiling character creator...
+> linking telemetry streams...
+> patching legal framework...
+> deploying private law system...
+> boot sequence: SUCCESS
+```
 
 ---
+
+### STATUS TERMINAL
+
+<pre>
+┌────────────────────────────────────┐
+│  SYSTEM: CREST INTERACTIVE         │
+│  UPTIME: 99.999%                   │
+│  USERS: whitelisted                │
+│  MODE: silent-build                │
+│  NEXT PUSH: undisclosed            │
+└────────────────────────────────────┘
+</pre>
+
+---
+
+### CONDUITS
+
+```txt
+- Web:    https://crest-interactive.com
+- Mail:   hello@crest-interactive.com
+- Access: discord.gg/neo-rp
+```
+
+---
+
+<pre align="center"><code>
+closing crest-os...
+commit logged [Founder Session]
+goodbye, Luno.
+</code></pre>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>

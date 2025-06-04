@@ -49,16 +49,15 @@ We shape ecosystems — from zero to experience."*
 
 ### 🧪 What We're Building
 
-Neo RP v1
-• One-character system
-• Rolelocked arms, admin factions
-• Legal + illegal economic loops
-• Immersive UI → narrative-driven logic
-• Custom OS experience in-game
+> **Neo RP v1**  
+> A next-gen roleplay framework, built from zero — no templates, no hand-me-down logic.
 
-yaml
-Copy
-Edit
+- 🔒 **One-character system** – No alts. Your identity matters.
+- 🎯 **Rolelocked weapons & admin-run factions** – Structured power, balanced gameplay.
+- ⚖️ **Legal & illegal economy loops** – Immersive, grindable, and reactive to the world.
+- 🖥️ **Narrative-first UI** – Interfaces tell a story, not just show stats.
+- 💻 **Custom in-game OS** – A fully integrated player desktop, built into RP.
+
 
 ---
 

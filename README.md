@@ -176,7 +176,10 @@ const rule = {
 This section is rewritten automatically by GitHub Actions using native Markdown.
 
 <!-- CREST-ACTIVITY:START -->
-_Last profile refresh pending. Run the **Update profile activity** workflow once after publishing._
+<sub>Last refreshed **06 Aug 2026 · 09:11 UTC** · 1 active public repositories · visible languages: No public language data yet</sub>
+
+- **[hame-resourcepack](https://github.com/CREST-Interactive/hame-resourcepack)** — No public description  
+  <sub>Mixed / unspecified · last public push 21 Jan 2026</sub>
 <!-- CREST-ACTIVITY:END -->
 
 <details>

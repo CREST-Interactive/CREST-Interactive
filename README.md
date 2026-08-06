@@ -32,7 +32,7 @@
   <a href="https://crest-interactive.com">
     <img src="https://img.shields.io/badge/Website-crest--interactive.com-F1E5C7?style=for-the-badge&labelColor=17151e" alt="CREST website" />
   </a>
-  <a href="mailto:founder@crest-interactive.com">
+  <a href="mailto:info@crest-interactive.com">
     <img src="https://img.shields.io/badge/Email-Start%20a%20conversation-F1E5C7?style=for-the-badge&labelColor=17151e&logo=gmail&logoColor=white" alt="Email CREST" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Switzerland-F1E5C7?style=for-the-badge&labelColor=17151e" alt="Based in Switzerland" />

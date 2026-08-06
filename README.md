@@ -397,7 +397,7 @@ Typical engagements include:
 The best fit is a project where **design identity and technical capability both matter**.
 
 <p align="center">
-  <a href="mailto:founder@crest-interactive.com">
+  <a href="mailto:info@crest-interactive.com">
     <img src="https://img.shields.io/badge/Discuss%20a%20project-founder%40crest--interactive.com-F1E5C7?style=for-the-badge&labelColor=17151e&logo=minutemailer&logoColor=white" alt="Discuss a project with CREST" />
   </a>
 </p>

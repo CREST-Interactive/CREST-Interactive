@@ -183,20 +183,21 @@ Infomaniak
 
 ## How a CREST Project Comes Together
 
-```mermaid
-flowchart LR
-    A["Identity & objectives"] --> B["Content architecture"]
-    B --> C["UX & visual system"]
-    C --> D["Frontend engineering"]
-    D --> E["Backend & data"]
-    E --> F["External integrations"]
-    F --> G["Deployment"]
-    G --> H["Validation & iteration"]
-```
-
-The interface is not treated as decoration applied after the technical work.
-
-The public experience, backend behavior, administrative workflow and deployment architecture are designed as parts of the same product.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/crest-project-flow-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/crest-project-flow-light.svg"
+  />
+  <img
+    src="./assets/crest-project-flow-dark.svg"
+    width="100%"
+    alt="CREST project workflow: identity, architecture, design, engineering, integrations, deployment and validation"
+  />
+</picture>
 
 ---
 

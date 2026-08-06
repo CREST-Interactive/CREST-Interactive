@@ -331,14 +331,15 @@ This section is refreshed automatically from GitHub. It contains native text and
 <!-- CREST-LIVE:START -->
 | Signal | Current reading |
 |---|---|
-| **Profile refresh** | Waiting for first workflow run |
-| **Public repositories** | — |
-| **Recently active repository** | — |
-| **Visible language signals** | — |
+| **Profile refresh** | 06 Aug 2026 · 09:03 UTC |
+| **Public repositories** | 1 non-fork, non-archived repositories |
+| **Recently active repository** | [hame-resourcepack](https://github.com/CREST-Interactive/hame-resourcepack) |
+| **Visible language signals** | Not enough public data |
 
 ### Recently active public work
 
-_Run the **Update CREST live signal** workflow once to populate this section._
+- **[hame-resourcepack](https://github.com/CREST-Interactive/hame-resourcepack)** — No public description  
+  <sub>Mixed / unspecified · last public push 21 Jan 2026</sub>
 <!-- CREST-LIVE:END -->
 
 <details>

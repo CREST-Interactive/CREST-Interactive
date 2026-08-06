@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="180"
+         viewBox="0 0 1600 180" role="img"
+         aria-labelledby="title desc">
+  <title id="title">How a CREST project comes together</title>
+  <desc id="desc">Identity and objectives, content architecture, UX and visual system, frontend engineering, backend and data, external integrations, deployment, validation and iteration.</desc>
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="6.5" refY="4"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#57606a"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" rx="14" fill="#ffffff"/>
+  
+                <line x1="207.75" y1="90.00" x2="223.75" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+                <line x1="402.50" y1="90.00" x2="418.50" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+                <line x1="597.25" y1="90.00" x2="613.25" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+                <line x1="792.00" y1="90.00" x2="808.00" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+                <line x1="986.75" y1="90.00" x2="1002.75" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+                <line x1="1181.50" y1="90.00" x2="1197.50" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+                <line x1="1376.25" y1="90.00" x2="1392.25" y2="90.00"
+                      stroke="#57606a" stroke-width="2.2" marker-end="url(#arrowhead)"/>
+                
+  
+            <rect x="34.00" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="118.38" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">Identity &amp; objectives</text>
+            
+            <rect x="228.75" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="313.12" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">Content architecture</text>
+            
+            <rect x="423.50" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="507.88" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">UX &amp; visual system</text>
+            
+            <rect x="618.25" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="702.62" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">Frontend engineering</text>
+            
+            <rect x="813.00" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="897.38" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">Backend &amp; data</text>
+            
+            <rect x="1007.75" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="1092.12" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">External integrations</text>
+            
+            <rect x="1202.50" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="1286.88" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">Deployment</text>
+            
+            <rect x="1397.25" y="55" width="168.75" height="70"
+                  rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+            <text x="1481.62" y="91.0"
+                  text-anchor="middle" dominant-baseline="middle"
+                  fill="#1f2328" font-family="Inter,Segoe UI,Arial,sans-serif"
+                  font-size="17" font-weight="600">Validation &amp; iteration</text>
+            
+</svg>

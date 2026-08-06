@@ -1,0 +1,47 @@
+name: Validate profile README
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "scripts/**"
+      - ".github/workflows/**"
+  pull_request:
+    paths:
+      - "README.md"
+      - "scripts/**"
+      - ".github/workflows/**"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate README markers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import sys
+
+          text = Path("README.md").read_text(encoding="utf-8")
+          markers = [
+              "<!-- CREST-ACTIVITY:START -->",
+              "<!-- CREST-ACTIVITY:END -->",
+          ]
+
+          missing = [marker for marker in markers if marker not in text]
+          if missing:
+              print("Missing markers:")
+              for marker in missing:
+                  print(f"  - {marker}")
+              sys.exit(1)
+
+          print("README markers are valid.")
+          PY
+
+      - name: Syntax-check updater
+        run: python3 -m py_compile scripts/update_readme.py

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Unexpected Fall featured build</title>
+  <desc id="desc">A bilingual full-stack band platform with commerce, booking, protected resources and private administration.</desc>
+  <defs>
+    <linearGradient id="projectBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#131A24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" rx="24" fill="url(#projectBg)"/>
+  <rect x="55" y="55" width="1490" height="390" rx="22" fill="#161D27" stroke="#343F4F" stroke-width="2"/>
+
+  <text x="95" y="108" fill="#F1E5C7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" font-weight="800" letter-spacing="2">FEATURED BUILD</text>
+  <text x="95" y="168" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="850">Unexpected Fall</text>
+  <text x="95" y="207" fill="#A0A9B6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Official bilingual band platform · public experience + private operations</text>
+
+  <g transform="translate(95 255)">
+    <rect width="250" height="56" rx="14" fill="#0D1117" stroke="#343F4F" stroke-width="2"/>
+    <text x="26" y="35" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">DE / EN content</text>
+  </g>
+  <g transform="translate(365 255)">
+    <rect width="250" height="56" rx="14" fill="#0D1117" stroke="#343F4F" stroke-width="2"/>
+    <text x="26" y="35" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Stripe commerce</text>
+  </g>
+  <g transform="translate(635 255)">
+    <rect width="250" height="56" rx="14" fill="#0D1117" stroke="#343F4F" stroke-width="2"/>
+    <text x="26" y="35" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Promoter portal</text>
+  </g>
+  <g transform="translate(905 255)">
+    <rect width="250" height="56" rx="14" fill="#0D1117" stroke="#343F4F" stroke-width="2"/>
+    <text x="26" y="35" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Admin system</text>
+  </g>
+
+  <text x="95" y="373" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="650">Next.js · React · TypeScript · Tailwind CSS · Stripe · Resend · SQL · Cloudflare · Infomaniak</text>
+  <rect x="95" y="401" width="760" height="4" rx="2" fill="#F1E5C7"/>
+
+  <g transform="translate(1260 112)">
+    <circle cx="110" cy="110" r="104" fill="#0D1117" stroke="#343F4F" stroke-width="2"/>
+    <text x="110" y="94" text-anchor="middle" fill="#F1E5C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="850">FULL</text>
+    <text x="110" y="128" text-anchor="middle" fill="#F1E5C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="850">STACK</text>
+    <text x="110" y="163" text-anchor="middle" fill="#A0A9B6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700">PRODUCTION BUILD</text>
+  </g>
+</svg>

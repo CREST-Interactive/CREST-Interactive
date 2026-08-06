@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="380" viewBox="0 0 1600 380" role="img" aria-labelledby="title desc">
+  <title id="title">CREST technical toolbox</title>
+  <desc id="desc">Frontend, application, data and delivery technologies.</desc>
+  <rect width="1600" height="380" rx="24" fill="#FFFFFF"/>
+  <text x="55" y="44" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">Technical toolbox</text>
+  <text x="55" y="69" fill="#69727E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Selected around the product—not used as a substitute for understanding it.</text>
+  
+        <rect x="55" y="82" width="320" height="245" rx="20" fill="#F4F1EA" stroke="#CEC5B5" stroke-width="2"/>
+        <text x="81" y="120" fill="#F1E5C7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="800" letter-spacing="2">INTERFACE</text>
+        
+            <circle cx="86" cy="158" r="4.5" fill="#F1E5C7"/>
+            <text x="103" y="164" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Next.js</text>
+            
+            <circle cx="86" cy="200" r="4.5" fill="#F1E5C7"/>
+            <text x="103" y="206" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">React</text>
+            
+            <circle cx="86" cy="242" r="4.5" fill="#F1E5C7"/>
+            <text x="103" y="248" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">TypeScript</text>
+            
+            <circle cx="86" cy="284" r="4.5" fill="#F1E5C7"/>
+            <text x="103" y="290" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Tailwind CSS</text>
+            
+        <rect x="430" y="82" width="320" height="245" rx="20" fill="#F4F1EA" stroke="#CEC5B5" stroke-width="2"/>
+        <text x="456" y="120" fill="#F1E5C7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="800" letter-spacing="2">APPLICATION</text>
+        
+            <circle cx="461" cy="158" r="4.5" fill="#F1E5C7"/>
+            <text x="478" y="164" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Node.js</text>
+            
+            <circle cx="461" cy="200" r="4.5" fill="#F1E5C7"/>
+            <text x="478" y="206" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">APIs</text>
+            
+            <circle cx="461" cy="242" r="4.5" fill="#F1E5C7"/>
+            <text x="478" y="248" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Authentication</text>
+            
+            <circle cx="461" cy="284" r="4.5" fill="#F1E5C7"/>
+            <text x="478" y="290" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Validation</text>
+            
+        <rect x="805" y="82" width="320" height="245" rx="20" fill="#F4F1EA" stroke="#CEC5B5" stroke-width="2"/>
+        <text x="831" y="120" fill="#F1E5C7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="800" letter-spacing="2">DATA</text>
+        
+            <circle cx="836" cy="158" r="4.5" fill="#F1E5C7"/>
+            <text x="853" y="164" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">PostgreSQL</text>
+            
+            <circle cx="836" cy="200" r="4.5" fill="#F1E5C7"/>
+            <text x="853" y="206" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">MongoDB</text>
+            
+            <circle cx="836" cy="242" r="4.5" fill="#F1E5C7"/>
+            <text x="853" y="248" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Migrations</text>
+            
+            <circle cx="836" cy="284" r="4.5" fill="#F1E5C7"/>
+            <text x="853" y="290" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">File handling</text>
+            
+        <rect x="1180" y="82" width="320" height="245" rx="20" fill="#F4F1EA" stroke="#CEC5B5" stroke-width="2"/>
+        <text x="1206" y="120" fill="#F1E5C7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="800" letter-spacing="2">DELIVERY</text>
+        
+            <circle cx="1211" cy="158" r="4.5" fill="#F1E5C7"/>
+            <text x="1228" y="164" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">GitHub</text>
+            
+            <circle cx="1211" cy="200" r="4.5" fill="#F1E5C7"/>
+            <text x="1228" y="206" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Docker</text>
+            
+            <circle cx="1211" cy="242" r="4.5" fill="#F1E5C7"/>
+            <text x="1228" y="248" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Cloudflare</text>
+            
+            <circle cx="1211" cy="284" r="4.5" fill="#F1E5C7"/>
+            <text x="1228" y="290" fill="#161B22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Infomaniak</text>
+            
+</svg>

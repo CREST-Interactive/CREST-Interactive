@@ -1,0 +1,64 @@
+name: Validate profile README
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - ".github/workflows/validate-profile.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - ".github/workflows/validate-profile.yml"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate local README assets
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+
+          readme = Path("README.md")
+          if not readme.is_file():
+              raise SystemExit("README.md is missing")
+
+          text = readme.read_text(encoding="utf-8")
+          references = sorted(set(re.findall(r'(?:src|srcset)="(\./assets/[^"]+)"', text)))
+
+          if not references:
+              raise SystemExit("No local assets were found in README.md")
+
+          missing = []
+          empty = []
+
+          for reference in references:
+              path = Path(reference.removeprefix("./"))
+              if not path.is_file():
+                  missing.append(str(path))
+              elif path.stat().st_size == 0:
+                  empty.append(str(path))
+
+          if missing or empty:
+              if missing:
+                  print("Missing assets:")
+                  for item in missing:
+                      print(f"  - {item}")
+              if empty:
+                  print("Empty assets:")
+                  for item in empty:
+                      print(f"  - {item}")
+              sys.exit(1)
+
+          print(f"Validated {len(references)} local README assets.")
+          PY

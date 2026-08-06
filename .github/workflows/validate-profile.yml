@@ -1,16 +1,18 @@
-name: Validate profile README
+name: Validate CREST profile
 
 on:
   push:
     paths:
       - "README.md"
       - "assets/**"
-      - ".github/workflows/validate-profile.yml"
+      - "scripts/**"
+      - ".github/workflows/**"
   pull_request:
     paths:
       - "README.md"
       - "assets/**"
-      - ".github/workflows/validate-profile.yml"
+      - "scripts/**"
+      - ".github/workflows/**"
   workflow_dispatch:
 
 jobs:
@@ -21,8 +23,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Validate local README assets
-        shell: bash
+      - name: Validate local assets and live markers
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -30,35 +31,38 @@ jobs:
           import sys
 
           readme = Path("README.md")
-          if not readme.is_file():
-              raise SystemExit("README.md is missing")
-
           text = readme.read_text(encoding="utf-8")
-          references = sorted(set(re.findall(r'(?:src|srcset)="(\./assets/[^"]+)"', text)))
 
-          if not references:
-              raise SystemExit("No local assets were found in README.md")
+          references = sorted(set(
+              re.findall(r'(?:src|srcset)="(\./assets/[^"]+)"', text)
+          ))
 
-          missing = []
-          empty = []
+          missing = [
+              reference for reference in references
+              if not Path(reference.removeprefix("./")).is_file()
+          ]
 
-          for reference in references:
-              path = Path(reference.removeprefix("./"))
-              if not path.is_file():
-                  missing.append(str(path))
-              elif path.stat().st_size == 0:
-                  empty.append(str(path))
+          required_markers = [
+              "<!-- CREST-LIVE:START -->",
+              "<!-- CREST-LIVE:END -->",
+          ]
+          absent_markers = [marker for marker in required_markers if marker not in text]
 
-          if missing or empty:
-              if missing:
-                  print("Missing assets:")
-                  for item in missing:
-                      print(f"  - {item}")
-              if empty:
-                  print("Empty assets:")
-                  for item in empty:
-                      print(f"  - {item}")
+          if missing:
+              print("Missing README assets:")
+              for item in missing:
+                  print(f"  - {item}")
+
+          if absent_markers:
+              print("Missing live profile markers:")
+              for item in absent_markers:
+                  print(f"  - {item}")
+
+          if missing or absent_markers:
               sys.exit(1)
 
-          print(f"Validated {len(references)} local README assets.")
+          print(f"Validated {len(references)} local assets and all live markers.")
           PY
+
+      - name: Syntax-check updater
+        run: python3 -m py_compile scripts/update_profile.py

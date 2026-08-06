@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="220" viewBox="0 0 1600 220" role="img" aria-labelledby="title desc">
-  <title id="title">CREST INTERACTIVE footer</title>
-  <desc id="desc">Concepts taught the lessons. Production proves them.</desc>
-  <rect width="1600" height="220" rx="24" fill="#0D1117"/>
-  <line x1="70" y1="48" x2="1530" y2="48" stroke="#303A48" stroke-width="2"/>
-  <text x="800" y="112" text-anchor="middle" fill="#F4F6F8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">Concepts taught the lessons. Production proves them.</text>
-  <text x="800" y="153" text-anchor="middle" fill="#9BA5B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">CREST INTERACTIVE · Switzerland · © 2026</text>
-  <rect x="680" y="181" width="240" height="4" rx="2" fill="#F1E5C7"/>
-</svg>

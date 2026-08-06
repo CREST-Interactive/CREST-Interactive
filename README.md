@@ -1,238 +1,572 @@
-<h1 align="center">CREST INTERACTIVE</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-stack web development by Luno.</strong><br>
-  <sub>Switzerland · custom websites · commerce · private systems · production deployment</sub>
-</p>
+# CREST INTERACTIVE
 
-<p align="center">
-  <a href="https://crest-interactive.com"><strong>Website</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:info@crest-interactive.com"><strong>Email</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#selected-work"><strong>Selected work</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#recent-public-work"><strong>Recent activity</strong></a>
-</p>
+### Full-stack web development by Luno.
+
+**Distinctive interfaces. Complete systems. Production delivery.**
+
+<br>
+
+<a href="https://crest-interactive.com"><kbd> WEBSITE </kbd></a>
+&nbsp;
+<a href="mailto:info@crest-interactive.com"><kbd> CONTACT </kbd></a>
+&nbsp;
+<a href="https://unexpectedfall.ch"><kbd> LIVE PROJECT </kbd></a>
+
+<br><br>
+
+<code>SWITZERLAND</code>
+&nbsp;·&nbsp;
+<code>FULL-STACK</code>
+&nbsp;·&nbsp;
+<code>DESIGN-DRIVEN</code>
+&nbsp;·&nbsp;
+<code>PRODUCTION-FOCUSED</code>
+
+</div>
 
 ---
 
+```text
+┌─ CREST INTERACTIVE ────────────────────────────────────────────┐
+│                                                               │
+│  I build custom websites as complete digital products.        │
+│                                                               │
+│  Identity → Experience → Application → Operations → Launch    │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+## `01 / ABOUT`
+
+CREST INTERACTIVE is my independent full-stack web-development studio.
+
+I design and engineer websites that combine a strong public identity with the systems operating behind it: application logic, commerce, booking, protected areas, content management, administration and deployment.
+
 > [!IMPORTANT]
-> **I build websites that leave localhost.**  
-> The public interface, application logic, private administration and production deployment are treated as one product.
+> **A website is not finished because it looks good locally.**  
+> It is finished when real people can use it, the owner can operate it and the system can continue evolving after launch.
 
 <table>
 <tr>
 <td width="25%" align="center">
-  <strong>PUBLIC</strong><br>
-  <sub>Brand and content</sub>
+  <strong>DESIGN</strong><br>
+  <sub>Identity and interface</sub>
 </td>
 <td width="25%" align="center">
-  <strong>SYSTEM</strong><br>
+  <strong>DEVELOP</strong><br>
   <sub>Frontend and backend</sub>
 </td>
 <td width="25%" align="center">
-  <strong>OPERATIONS</strong><br>
+  <strong>OPERATE</strong><br>
   <sub>Admin and workflows</sub>
 </td>
 <td width="25%" align="center">
-  <strong>PRODUCTION</strong><br>
-  <sub>Deploy and maintain</sub>
+  <strong>SHIP</strong><br>
+  <sub>Deployment and launch</sub>
 </td>
 </tr>
 </table>
 
-## Now
+---
 
-```text
-building   custom full-stack websites
-shipping   Unexpected Fall's production platform
-refining   reusable commerce, booking and admin foundations
-based      Switzerland
+## `02 / CURRENT STATUS`
+
+```yaml
+studio: CREST INTERACTIVE
+founder: Luno
+location: Switzerland
+
+focus:
+  - Custom production websites
+  - Full-stack web applications
+  - Commerce and booking systems
+  - Private administration portals
+  - Production deployment
+
+currently_shipping:
+  - Unexpected Fall official platform
+
+status: Building beyond localhost
 ```
 
-CREST INTERACTIVE is my independent web-development studio. I work across the entire delivery chain—from the first structural decisions to the production environment that ultimately runs the product.
+---
 
-```text
-identity → structure → interface → application → operations → production
-```
+## `03 / FEATURED BUILD`
 
-## Selected work
+# Unexpected Fall
 
-### Unexpected Fall — official band platform
+### Official bilingual band platform
 
-[**unexpectedfall.ch ↗**](https://unexpectedfall.ch)
+[<kbd> OPEN UNEXPECTEDFALL.CH ↗ </kbd>](https://unexpectedfall.ch)
 
-A custom bilingual website and operational platform for Swiss alternative-rock band **Unexpected Fall**.
+A custom website and operational platform for Swiss alternative-rock band **Unexpected Fall**.
+
+Rather than functioning as a basic band homepage, the project connects the public brand experience, music, shows, media, merchandise, booking resources and private administration within one full-stack application.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Public experience**
+<h3>Public experience</h3>
 
-- German and English content
-- Custom responsive visual system
-- Music, shows, gallery, videos and lyrics
-- Merchandise catalogue and product pages
-- Booking and contact workflows
-- SEO, metadata and legal surfaces
+<ul>
+  <li>German and English interface</li>
+  <li>Custom responsive visual system</li>
+  <li>Music, shows, gallery and videos</li>
+  <li>Lyrics and band content</li>
+  <li>Merchandise catalogue</li>
+  <li>Product and checkout flows</li>
+  <li>Booking and contact workflows</li>
+  <li>SEO, metadata and legal surfaces</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-**Application layer**
+<h3>Application layer</h3>
 
-- Server-side Stripe Checkout
-- Catalogue-driven commerce
-- Protected promoter resources
-- Private administration portal
-- Inquiry and content management
-- Transactional email and deployment architecture
+<ul>
+  <li>Server-side Stripe Checkout</li>
+  <li>Catalogue-driven commerce</li>
+  <li>Protected promoter resources</li>
+  <li>Private administration portal</li>
+  <li>Inquiry and conversation management</li>
+  <li>Content and media management</li>
+  <li>Transactional email</li>
+  <li>Production deployment architecture</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>Open the case-study architecture</strong></summary>
+<summary><strong>◉ Open project architecture</strong></summary>
 
 <br>
 
 ```text
-PUBLIC EXPERIENCE
-├── Brand, content and media
-├── Shows, booking and contact
-├── Shop, products and checkout
-└── Legal, privacy and shipping
-              │
-              ▼
-APPLICATION
-├── Server-side validation
-├── Catalogue and content data
-├── Stripe and email integrations
-└── Protected access boundaries
-              │
-              ▼
-PRIVATE OPERATIONS
-├── Inquiries and conversations
-├── Content and media management
-├── Maintenance controls
-└── Runtime and launch configuration
+UNEXPECTED FALL
+│
+├── PUBLIC PLATFORM
+│   ├── Home and brand experience
+│   ├── Music and releases
+│   ├── Shows and events
+│   ├── Gallery and videos
+│   ├── Lyrics and band content
+│   ├── Booking and contact
+│   └── Legal and privacy
+│
+├── COMMERCE
+│   ├── Merchandise catalogue
+│   ├── Product pages
+│   ├── Cart state
+│   ├── Server-side price validation
+│   ├── Stripe Checkout
+│   └── Shipping logic
+│
+├── PROMOTER PORTAL
+│   ├── Electronic press kit
+│   ├── Technical rider
+│   ├── Stage plot
+│   ├── Press photography
+│   └── Advance information
+│
+└── PRIVATE ADMINISTRATION
+    ├── Inquiries and conversations
+    ├── Content and media
+    ├── Shows and catalogue
+    ├── Maintenance controls
+    └── Runtime configuration
 ```
-
-**Core stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Stripe` · `Resend` · `SQL` · `Cloudflare` · `Infomaniak`
 
 </details>
 
-## What I build
+<details>
+<summary><strong>⌘ Open project stack</strong></summary>
 
-| Area | Typical scope |
-|---|---|
-| **Brand websites** | Custom visual systems, responsive interfaces, bilingual content, animation and strong brand translation |
-| **Full-stack applications** | Authentication, databases, APIs, forms, dashboards, protected routes and server-side validation |
-| **Commerce and booking** | Product catalogues, Stripe Checkout, shipping logic, booking flows and transactional email |
-| **CMS and administration** | Content, media, inquiries, operational settings, permissions and maintenance controls |
-| **Redesigns and migrations** | Replacing restrictive website builders without throwing away useful identity or content |
-| **Production delivery** | Hosting, environment variables, migrations, DNS, TLS, proxies and launch validation |
+<br>
 
-## Toolbox
+```text
+Next.js          Application framework
+React            Interface architecture
+TypeScript       Type-safe application code
+Tailwind CSS     Visual system implementation
+Node.js          Server runtime
+SQL              Persistent application data
+Stripe           Checkout and payment handoff
+Resend           Transactional email
+Cloudflare       DNS and proxy layer
+Infomaniak       Production hosting
+```
 
-**Interface**  
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · responsive UI · accessibility · interaction states
+</details>
 
-**Application**  
-`Node.js` · server rendering · APIs · authentication · validation · protected routes
+---
 
-**Data and integrations**  
-`PostgreSQL` · `MongoDB` · migrations · file handling · `Stripe` · transactional email
+## `04 / WHAT I BUILD`
 
-**Delivery**  
-`Git` · `GitHub Actions` · `Docker` · `Cloudflare` · `Infomaniak` · DNS · TLS
+<details open>
+<summary><strong>◫ Brand websites</strong></summary>
+
+<br>
+
+Custom websites for businesses, artists and organisations that require a recognisable identity instead of interchangeable template sections.
+
+```text
+Brand direction
+├── Information architecture
+├── Responsive interface
+├── Content presentation
+├── Motion and interaction
+├── Search and metadata
+└── Conversion paths
+```
+
+</details>
+
+<details>
+<summary><strong>⚙ Full-stack applications</strong></summary>
+
+<br>
+
+Applications where the interface, server behavior and stored data work together.
+
+- Authentication and protected routes
+- Databases and migrations
+- APIs and server actions
+- Forms and validation
+- File and media handling
+- Dashboards and operational controls
+- Error, loading and empty states
+
+</details>
+
+<details>
+<summary><strong>◆ Commerce and booking</strong></summary>
+
+<br>
+
+Systems that turn interest into a structured transaction or conversation.
+
+- Product catalogues
+- Shopping carts
+- Stripe Checkout
+- Shipping and pricing logic
+- Booking requests
+- Inquiry workflows
+- Transactional email
+- Status management
+
+</details>
+
+<details>
+<summary><strong>▣ Administration systems</strong></summary>
+
+<br>
+
+The private side is treated as a real interface—not a collection of ugly database forms.
+
+- Content and media management
+- Inquiry and conversation views
+- Shows, products and catalogue data
+- Maintenance controls
+- Operational configuration
+- Permissions and protected resources
+
+</details>
+
+<details>
+<summary><strong>↻ Redesigns and migrations</strong></summary>
+
+<br>
+
+Replacing outdated or restrictive builder websites while preserving useful identity, content and domain infrastructure.
+
+```diff
+- Generic page-builder sections
+- Fragmented integrations
+- Restrictive editor behavior
+- Unclear technical ownership
+
++ Custom application architecture
++ Maintainable source code
++ Purpose-built workflows
++ Deliberate production deployment
+```
+
+</details>
+
+---
+
+## `05 / TOOLBOX`
+
+<div align="center">
+
+### Core technology
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,mongodb,python&theme=dark"
+    alt="Core technology stack"
+  />
+</a>
+
+### Development and delivery
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vscode,figma&theme=dark"
+    alt="Development and delivery tools"
+  />
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+<strong>INTERFACE</strong>
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Responsive UI
+- Accessibility
+- Interaction states
+
+</td>
+<td width="25%" valign="top">
+
+<strong>APPLICATION</strong>
+
+- Node.js
+- Server rendering
+- APIs
+- Authentication
+- Validation
+- Protected routes
+- Application security
+
+</td>
+<td width="25%" valign="top">
+
+<strong>DATA</strong>
+
+- PostgreSQL
+- MongoDB
+- Migrations
+- File handling
+- Stripe
+- Transactional email
+- External services
+
+</td>
+<td width="25%" valign="top">
+
+<strong>DELIVERY</strong>
+
+- Git
+- GitHub
+- CI validation
+- Docker
+- Cloudflare
+- Infomaniak
+- DNS and TLS
+
+</td>
+</tr>
+</table>
 
 ```typescript
-const rule = {
+const engineeringPrinciple = {
   useTechnologyWhen: "the product requires it",
-  notWhen: "the stack merely sounds impressive",
+  neverWhen: "it only makes the stack sound impressive",
 };
 ```
 
-## How I work
+---
+
+## `06 / PROCESS`
 
 ```text
-01  Understand the actual objective
-02  Structure content, journeys and data
-03  Establish the visual and interaction system
-04  Engineer frontend and backend behavior
-05  Integrate payments, email and external services
-06  Deploy, validate and keep the product maintainable
+01  DISCOVER
+    Objectives, users, constraints and operational requirements
+                         │
+                         ▼
+02  STRUCTURE
+    Content architecture, routes, journeys and data boundaries
+                         │
+                         ▼
+03  DESIGN
+    Visual language, responsive behavior and interface states
+                         │
+                         ▼
+04  ENGINEER
+    Components, application logic, APIs and validation
+                         │
+                         ▼
+05  INTEGRATE
+    Payments, email, storage and external services
+                         │
+                         ▼
+06  SHIP
+    Hosting, migrations, DNS, TLS and launch validation
 ```
 
 > [!NOTE]
-> The owner, editor or administrator is also a user. The private side should be coherent, efficient and pleasant to operate—not an afterthought attached to the database.
+> The public interface, backend behavior, administration and deployment architecture are designed as parts of one product—not handed off as disconnected layers.
 
-## Recent public work
+---
 
-This section is rewritten automatically by GitHub Actions using native Markdown.
+## `07 / ENGINEERING RULES`
 
-<!-- CREST-ACTIVITY:START -->
-<sub>Last refreshed **06 Aug 2026 · 09:11 UTC** · 1 active public repositories · visible languages: No public language data yet</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **[hame-resourcepack](https://github.com/CREST-Interactive/hame-resourcepack)** — No public description  
-  <sub>Mixed / unspecified · last public push 21 Jan 2026</sub>
-<!-- CREST-ACTIVITY:END -->
+### Ship the whole product
 
-<details>
-<summary><strong>Open contribution animation</strong></summary>
+A polished homepage is not enough when the forms fail, the owner cannot update content or deployment must be reconstructed from memory.
 
-<br>
+</td>
+<td width="50%" valign="top">
+
+### Preserve identity
+
+Reusable engineering should support a distinct brand—not force every project into the same component-library aesthetic.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Design the private side
+
+Owners, editors and administrators are users too. Internal workflows should be coherent, efficient and pleasant to operate.
+
+</td>
+<td width="50%" valign="top">
+
+### Treat production as engineering
+
+Environment variables, migrations, persistent storage, email, payments, proxies, DNS and TLS are not afterthoughts.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `08 / GITHUB ACTIVITY`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CREST-Interactive/CREST-Interactive/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CREST-Interactive/CREST-Interactive/output/github-contribution-grid-snake.svg">
-  <img alt="Animated CREST Interactive GitHub contribution graph" src="https://raw.githubusercontent.com/CREST-Interactive/CREST-Interactive/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=CREST-Interactive&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=CREST%20INTERACTIVE%20%E2%80%94%20PUBLIC%20ACTIVITY"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=CREST-Interactive&theme=github-light&hide_border=true&area=true&custom_title=CREST%20INTERACTIVE%20%E2%80%94%20PUBLIC%20ACTIVITY"
+  >
+  <img
+    width="100%"
+    alt="CREST Interactive public GitHub activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CREST-Interactive&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=CREST%20INTERACTIVE%20%E2%80%94%20PUBLIC%20ACTIVITY"
+  >
 </picture>
 
-</details>
+> Most production development currently happens in private repositories, so public activity represents only part of the work behind CREST.
 
-## Earlier CREST experiments
+---
+
+## `09 / EARLIER EXPERIMENTS`
 
 <details>
-<summary><strong>Neo RP and NeoLog</strong></summary>
+<summary><strong>What happened to Neo RP and NeoLog?</strong></summary>
 
 <br>
 
 Neo RP and NeoLog were ambitious development concepts from an earlier chapter of CREST.
 
-They did not become complete public products, so they are no longer presented as active releases. Their useful parts remain: interface systems, telemetry, backend logic, application architecture and product thinking that now feed directly into production web work.
+They explored:
+
+- Interface systems
+- Telemetry and data visualisation
+- Backend architecture
+- Gameplay and economy systems
+- Product identity
+- Long-term platform design
+
+Neither became a complete public release, so they are no longer presented as active products.
+
+Their useful parts remain: the architecture, interface discipline and systems thinking developed there now feed directly into production web work.
 
 > **The prototypes stayed behind. The experience did not.**
 
 </details>
 
-## Work with CREST
+---
 
-The strongest fit is a project where **visual identity and technical capability both matter**.
+## `10 / WORK WITH CREST`
 
-- A custom website for a business, artist or organisation
-- A redesign or migration away from a restrictive website builder
-- A shop, catalogue, booking or inquiry workflow
-- A protected customer, promoter or staff portal
-- A purpose-built administration system
-- Technical launch preparation and continued post-launch development
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <a href="mailto:info@crest-interactive.com?subject=Project%20inquiry%20for%20CREST%20INTERACTIVE"><strong>Start a project</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://crest-interactive.com"><strong>Visit CREST INTERACTIVE</strong></a>
-</p>
+### Strong project fit
+
+- Custom business or artist website
+- Website-builder migration
+- Full redesign
+- Shop or product catalogue
+- Booking or inquiry system
+- Protected customer or staff portal
+- Private administration system
+- Production launch and deployment
+- Continued post-launch development
+
+</td>
+<td width="45%" valign="top">
+
+### Contact
+
+**Website**  
+[crest-interactive.com](https://crest-interactive.com)
+
+**Email**  
+[info@crest-interactive.com](mailto:info@crest-interactive.com)
+
+**GitHub**  
+[CREST-Interactive](https://github.com/CREST-Interactive)
+
+**Based in**  
+Switzerland
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Have a project where identity and technical capability both matter?
+
+<br>
+
+<a href="mailto:info@crest-interactive.com?subject=Project%20inquiry%20for%20CREST%20INTERACTIVE"><kbd> START A PROJECT </kbd></a>
+
+<br><br>
 
 ---
 
-<p align="center">
-  <strong>Designed with identity. Engineered as a system. Shipped to production.</strong>
-</p>
+**DESIGNED WITH IDENTITY. ENGINEERED AS A SYSTEM. SHIPPED TO PRODUCTION.**
 
-<p align="center">
-  <sub>© 2026 CREST INTERACTIVE · Switzerland</sub>
-</p>
+<sub>© 2026 CREST INTERACTIVE · Switzerland</sub>
+
+</div>
